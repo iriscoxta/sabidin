@@ -15,6 +15,7 @@
    * [Pre Requisitos](#pre-requisitos)
    * [Como usar a aplicação](#como-usar)
    * [Tecnologias](#Tecnologias)
+   * [Autores](#Autores)
 <!--te-->
 
 ## Pré-requisitos
