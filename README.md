@@ -27,7 +27,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### 🎲 Iniciando o servidor
 - Clone este repositório </br> 
 ```gitconfig
-git clone <https://github.com/tgmarinho/nlw1>
+git clone https://github.com/iriscoxta/sabidin.git
 ```
 - Acesse a pasta do projeto no terminal/cmd </br>
 ```gitconfig
